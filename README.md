@@ -38,9 +38,3 @@ This project provides a streamlined pipeline for processing question papers and 
 - **`generate_replacement_questions(irrelevant, syllabus)`**: Creates syllabus-aligned questions.
 - **`revised(question, irrelevant, replacement)`**: Generates the updated question paper.
 - **`understand(s)`**: Summarizes the syllabus content.
-
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
